@@ -1,4 +1,5 @@
 # seti-api
+<<<<<<< HEAD
 
 1. Steps on how to start your application
 
@@ -30,3 +31,5 @@ java -jar target/seti-api-0.0.1-SNAPSHOT.jar
 		"loc": "US",
 		"dob": "06/19/1986"
 	}
+=======
+>>>>>>> 474c2dcce4d81849ee89dc438dbe9360850f1fb1
