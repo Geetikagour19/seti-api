@@ -16,7 +16,7 @@ public class UserService {
 			Arrays.asList(new User(1, "Geetika", "geetika123@climate.com", 1234567898, "US", "06/19/1986"),
 					new User(2, "Abc", "abc12664@climate.com", 1234557898, "US", "06/11/1986")));
 
-	private final static Set<String> locales = new HashSet<>(Arrays.asList("US", "BR", "CA"));
+	private final static Set<String> locales = new HashSet<String>(Arrays.asList("US", "BR", "CA"));
 	
 	private final static String COMPANY_DOMAIN = "@climate.com";
 	
